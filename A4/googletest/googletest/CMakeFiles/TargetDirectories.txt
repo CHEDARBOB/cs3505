@@ -1,0 +1,4 @@
+/Users/Trevor/Documents/cs3505/lab5/googletest/googletest/CMakeFiles/edit_cache.dir
+/Users/Trevor/Documents/cs3505/lab5/googletest/googletest/CMakeFiles/rebuild_cache.dir
+/Users/Trevor/Documents/cs3505/lab5/googletest/googletest/CMakeFiles/gtest_main.dir
+/Users/Trevor/Documents/cs3505/lab5/googletest/googletest/CMakeFiles/gtest.dir
